@@ -1,5 +1,5 @@
 
-# EduTrack — Student Dropout Risk & Academic Success Prediction System
+# EduTrack - Student Dropout Risk & Academic Success Prediction System
 
 ## Project Overview
 
